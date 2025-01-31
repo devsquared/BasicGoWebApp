@@ -1,4 +1,4 @@
-package basic-go-web-app
+package basicgowebapp
 
 import (
 	"encoding/json"
